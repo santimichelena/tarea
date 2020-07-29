@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    h1{
+        background: darkgray;
+    }
+    em{
+        color: red;
+    }
